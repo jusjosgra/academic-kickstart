@@ -59,7 +59,7 @@ social:
   link: https://github.com/jusjosgra
 - icon: cv
   icon_pack: ai
-  link: "files/CV-2019-JGRACE.pdf"
+  link: "files/Justin_Grace_CV_2021.pdf"
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: "justin.j.grace@gmail.com"
@@ -71,10 +71,11 @@ user_groups:
 - Visitors
 ---
 
-I am a Machine Learning Engineer :man_technologist: / Scientist :man_scientist: with over 6 years industry experience working as a Data Scientist and Machine Learning Engineer, and 4 years experience as an academic researcher and scientist. I am a specialist in deep learning and natural language processing (NLP) with a particular interest in dialogue :speech_balloon: and question-answering :8ball: systems.
+I am a Machine Learning Engineer :man_technologist: / Scientist :man_scientist: with over 10 years industry experience working as a machine learning engineer, data scientist, academic researcher and scientist. I am a specialist in deep learning and natural language processing (NLP) with a particular interest in question-answering :8ball: systems, information retrieval :mag:, and dialogue systems :speech_balloon:.
 
 I have worked on various industry applications, highlights include:
 
+  * building and deploying scalable complete NLP pipeline for performing named entity resolution, entity linking & relationship extraction on millions of documents :books:
   * building and deploying a deep neural biomedical question answering service able to query over 30M+ pubmed documents -- helping drug discovery scientists discover treatments to rare diseases faster :pill:
   * building deep neural dialogue and question-answer systems at a peer-to-peer chat technology startup -- assisting scalable automated support for peer-to-peer conversations :man_student:
   * deep neural document summarization systems for news media -- enabling automated TLDR descriptions of complex news articles :newspaper:
